@@ -5,12 +5,13 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css" integrity="sha384-Zug+QiDoJOrZ5t4lssLdxGhVrurbmBWopoEl+M6BdEfwnCJZtKxi1KgxUyJq13dy" crossorigin="anonymous">
   </head>
   <body>
+  	<h1>Prueba de repositorio</h1>
 	<main>
 		<button onclick="obtenerProductos()">Hacer petición</button>
 		<table id="productosLista" class="table">
 			<thead>
 				<tr>
-					<th scope="col">#</th>
+					<th scope="col">ID Cominda</th>
 					<th scope="col">Nombre</th>
 					<th scope="col">Precio</th>
 					<th scope="col">Descripción</th>
